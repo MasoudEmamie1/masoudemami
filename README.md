@@ -58,13 +58,17 @@
 <h2>📫 Contact Me</h2>
 <p>If you'd like to discuss Linux projects, DevOps, or anything related to open-source, feel free to reach out:</p>
 <p>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/MasoudEmamie1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github" alt="GitHub Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:masoudemami@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email Badge"/>
   </a>
+   <a href="https://masoudemami.ir" target="_blank">
+      <img src="" alt="Website Badge"/>
+   </a>
 </p>
+
