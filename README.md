@@ -1,7 +1,7 @@
 <!-- Centered Profile Introduction -->
 <div align="center">
    <h1>Hello, I'm [Your Name]! 🐧</h1>
-  <p>Linux System Administrator | Open Source Contributor | DevOps Enthusiast</p>
+  <p>Linux System Administrator |  DevOps Enthusiast | Open Source Contributor </p>
 </div>
 
 ---
