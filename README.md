@@ -9,7 +9,7 @@
 <!-- About Me Section with HTML & Markdown -->
 ## 📖 About Me
 
-<p>I am a Linux-based developer and system administrator with a strong passion for open-source technology, automation, and cybersecurity. With several years of experience in managing Linux servers, scripting, and configuring secure environments, I thrive in command-line settings and DevOps ecosystems.</p>
+<p>I am a Linux-based developer and system administrator with a strong passion for open-source technology, automation, and cybersecurity. With experience in managing Linux servers, scripting, and configuring secure environments, I thrive in command-line settings and DevOps ecosystems.</p>
 
 ---
 
