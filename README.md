@@ -1,6 +1,8 @@
-<!-- Centered Profile Introduction -->
+<!-- Centered Profile Introduction
 <div align="center">
   <img src="https://your-image-url.com/profile-pic.jpg" alt="Your Profile Picture" width="150" height="150" style="border-radius:50%">
+
+  -->
   <h1>Hello, I'm [Your Name]! 🐧</h1>
   <p>Linux System Administrator | Open Source Contributor | DevOps Enthusiast</p>
 </div>
