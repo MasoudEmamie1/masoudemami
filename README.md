@@ -32,7 +32,7 @@
 </p>
 -->
 
-<!-- Projects Section with Linux/DevOps Projects -->
+<!-- Projects Section with Linux/DevOps Projects 
 <h2>🚀 Projects</h2>
 <table>
   <tr>
@@ -51,7 +51,7 @@
     <td><a href="https://github.com/yourusername/system-monitoring-dashboard" target="_blank">View Repository</a></td>
   </tr>
 </table>
-
+-->
 ---
 
 <!-- Contact Me Section -->
