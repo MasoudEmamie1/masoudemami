@@ -61,14 +61,14 @@
   <a href="https://github.com/MasoudEmamie1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github" alt="GitHub Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/masoudemami" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:masoudemami@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email Badge"/>
   </a>
    <a href="https://masoudemami.ir" target="_blank">
-      <img src="[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/)" alt="Website Badge"/>
+      <img src="https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white" alt="Website Badge"/>
    </a>
 </p>
 
